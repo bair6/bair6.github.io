@@ -29,4 +29,4 @@ python -m http.server 4173 --bind 127.0.0.1
 
 参考：[GitHub Pages 发布来源设置](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)。
 
-网页已配置 bair6 的公开账号链接。本机尚未获得 GitHub 发布授权；本地预览不代表已经上线。
+仓库：https://github.com/bair6/bair6.github.io 。已配置 GitHub Pages 从 main 分支根目录自动发布，网站地址为 https://bair6.github.io/ 。后续修改提交到 main 分支后会自动部署；部署进度见仓库 Actions。
